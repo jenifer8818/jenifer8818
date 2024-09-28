@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenifer8818" alt="jenifer8818" /></a> </p>
 
-🔭 Currently building interactive React web applications.
-🌱 Learning Advanced React, Vue.js, GSAP, and UI/UX design.
-👯 Open to collaborating on frontend projects involving React and modern JavaScript frameworks.
-💬 Ask me about frontend development, CSS animations, and responsive design.
-📫 Reach me at jeni982003@gmail.com.
+- 🔭 Currently building interactive React web applications. 
+- 🌱 Learning Advanced React, Vue.js, GSAP, and UI/UX design.
+- 👯 Open to collaborating on frontend projects involving React and modern JavaScript frameworks.
+- 💬 Ask me about frontend development, CSS animations, and responsive design.
+- 📫 Reach me at jeni982003@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
