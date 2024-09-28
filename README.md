@@ -5,23 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenifer8818" alt="jenifer8818" /></a> </p>
 
-- 🔭 I’m currently working on **Building interactive web applications using React and improving my frontend development skills.**
-
-- 🌱 I’m currently learning **Advanced React, Vue.js, GSAP for animations, and UI/UX design principles.**
-
-- 👯 I’m looking to collaborate on **Frontend development projects, especially those involving React, Vue, or modern JavaScript frameworks.**
-
-- 🤝 I’m looking for help with **Improving my skills in design systems, accessibility, and performance optimization for web applications.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/jenifer8818](https://github.com/jenifer8818)
-
-- 💬 Ask me about **Frontend development, React, Vue, CSS animations, and building responsive web designs.**
-
-- 📫 How to reach me **jeni982003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YR5l0Pz8RzM2MOCctpw7Y71LE1UwDmeN/view?usp=drive_link](https://drive.google.com/file/d/1YR5l0Pz8RzM2MOCctpw7Y71LE1UwDmeN/view?usp=drive_link)
-
-- ⚡ Fun fact **I enjoy making pixel-perfect web designs and adding subtle animations for an enhanced user experience!**
+🔭 Currently building interactive React web applications.
+🌱 Learning Advanced React, Vue.js, GSAP, and UI/UX design.
+👯 Open to collaborating on frontend projects involving React and modern JavaScript frameworks.
+💬 Ask me about frontend development, CSS animations, and responsive design.
+📫 Reach me at jeni982003@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
