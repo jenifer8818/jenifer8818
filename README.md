@@ -1,31 +1,72 @@
-<h1 align="center">Hi 👋, I'm Jenifer</h1>
-<h3 align="center">Aspiring Frontend Developer | React Enthusiast | Passionate about Building Seamless User Experiences</h3>
+<h1 align="center">Hi 👋, I'm Jenifer L</h1>
+<h3 align="center">💻 Java Developer | 🌐 Frontend Enthusiast | 🔍 Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenifer8818&label=Profile%20views&color=0e75b6&style=flat" alt="jenifer8818" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenifer8818" alt="jenifer8818" /></a> </p>
-
-- 🔭 Currently building interactive React web applications. 
-- 🌱 Learning Advanced React, Vue.js, GSAP, and UI/UX design.
-- 👯 Open to collaborating on frontend projects involving React and modern JavaScript frameworks.
-- 💬 Ask me about frontend development, CSS animations, and responsive design.
-- 📫 Reach me at jeni982003@gmail.com.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jenifer-l-439128242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jenifer-l-439128242/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sece_mec060" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sece_mec060" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jenifer_l2021ec1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jenifer_l2021ec1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/jeniferl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jeniferl/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@jenifer.l2021ecea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@jenifer.l2021ecea" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/jeniferl2whos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/jeniferl2whos/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Java+Developer;Frontend+Developer+%7C+React.js;Building+Responsive+Web+Apps;Problem+Solver+%7C+Software+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jenifer8818&show_icons=true&locale=en&layout=compact" alt="jenifer8818" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenifer8818&show_icons=true&locale=en" alt="jenifer8818" /></p>
+🎓 I’m a final-year **Electronics and Communication Engineering** student at **Sri Eshwar College of Engineering**, graduating in **May 2025** with a CGPA of **8.8**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenifer8818&" alt="jenifer8818" /></p>
+👩‍💼 Currently working as a **.NET Developer Intern** at **Plintron**, Chennai, where I:
+- Build and test .NET-based applications
+- Learn industry-level software development workflows
+- Collaborate in Agile teams to deliver modules on time
+
+💡 My passion lies in:
+- Frontend development using **React.js**
+- Backend logic using **Core Java** and **OOP concepts**
+- Building scalable and responsive web applications
+
+---
+
+### 🧰 Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeniferL-git&show_icons=true&theme=react" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferL-git&layout=compact&theme=react" width="45%">
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jenifer-l">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚀 I'm Open To
+
+- Web development roles (Java / Frontend / Full Stack)
+- Collaborative projects in frontend/backend
+- Internship or full-time opportunities in software engineering
+
+> _"Code is like humor. When you have to explain it, it’s bad."_
+
+---
+
+⭐ **Thanks for stopping by!**  
+Feel free to check out my projects and connect with me!
