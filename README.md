@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Jenifer L</h1>
-<h3 align="center">💻 Java Developer | 🌐 Frontend Enthusiast | 🔍 Problem Solver</h3>
+<h3 align="center">💻 Java Full Stack Developer | 🌐 Frontend Enthusiast | 🔍 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Java+Developer;Frontend+Developer+%7C+React.js;Building+Responsive+Web+Apps;Problem+Solver+%7C+Software+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Frontend+Developer+%7C+React.js;Building+Responsive+Web+Apps;Problem+Solver+%7C+Software+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-🎓 I’m a final-year **Electronics and Communication Engineering** student at **Sri Eshwar College of Engineering**, graduating in **May 2025** with a CGPA of **8.8**.
+🎓 I have completed my degree in **Electronics and Communication Engineering** from **Sri Eshwar College of Engineering** with a CGPA of **8.8**.
 
-👩‍💼 Currently working as a **.NET Developer Intern** at **Plintron**, Chennai, where I:
-- Build and test .NET-based applications
-- Learn industry-level software development workflows
-- Collaborate in Agile teams to deliver modules on time
+👩‍💼 Completed **Java Full Stack Developer Training** at **HCLTech**, where I:
+- Gained hands-on experience in Java, Spring Boot, MySQL, and web technologies  
+- Built real-time applications during training  
+- Learned industry-level development practices  
 
-💡 My passion lies in:
-- Frontend development using **React.js**
-- Backend logic using **Core Java** and **OOP concepts**
-- Building scalable and responsive web applications
+💡 My interests include:
+- Frontend development using **React.js**  
+- Backend development using **Core Java** and **Spring Boot**  
+- Building scalable and responsive web applications  
 
 ---
 
@@ -60,13 +60,13 @@
 
 ### 🚀 I'm Open To
 
-- Web development roles (Java / Frontend / Full Stack)
-- Collaborative projects in frontend/backend
-- Internship or full-time opportunities in software engineering
+- Java / Full Stack Developer roles  
+- Frontend development opportunities  
+- Entry-level software engineering roles  
 
 > _"Code is like humor. When you have to explain it, it’s bad."_
 
 ---
 
-⭐ **Thanks for stopping by!**  
-Feel free to check out my projects and connect with me!
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my projects and connect with me!
